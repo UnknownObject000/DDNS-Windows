@@ -41,11 +41,12 @@ Bulid Step:
    The name of a log file can be whatever you want.What you just need to make sure is the directory that store log file exist and needn't to create a log file by yourself.
    
   4. Copy dll.
+  
     Copy all dll files in 'dll' folder into the folder where the program are.
     
   5. Install service.
       - Open srvanyUI
-      - Click  and choose 'system service',witch is default.
+      - Click ➕ and choose 'system service',witch is default.
       - Choose DDNS_CPP.exe as the server program.
       - Input service name,service description.
       - Save.
